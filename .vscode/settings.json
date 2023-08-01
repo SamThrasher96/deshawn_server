@@ -1,0 +1,12 @@
+{
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--django-settings-module=deshawnproject.settings",
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#39186E",
+        "titleBar.activeBackground": "#50219A",
+        "titleBar.activeForeground": "#FBFAFE"
+    }
+}
+
